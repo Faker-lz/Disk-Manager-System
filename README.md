@@ -1,5 +1,5 @@
 # Disk-Manager-System
-基于wxpython的磁盘管理系统
+基于wxpython的python磁盘管理系统
 # 实现功能
 * 文件(夹)展示(文件展示时可按照不同的拓展名显示不同图标)
 * 文件(夹)增删改查
